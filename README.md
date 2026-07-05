@@ -1,12 +1,11 @@
 # KomunBuy
 
 KomunBuy is a community-based group-buy ("jastip") storefront for niche reseller
-businesses — think official K-Pop merchandise imported from global fan platforms, or
-trending gadget accessories sourced from overseas suppliers. Instead of holding
-inventory, the site facilitates collective ordering: buyers commit to a batch, once
-the minimum order quantity (MOQ) is reached the operator places one bulk order and
-splits the international shipping cost across everyone, then repackages and ships
-domestically.
+businesses — think official K-Pop merchandise imported from global fan platforms
+sourced from overseas suppliers. Instead of holding inventory, the site facilitates
+collective ordering: buyers commit to a batch, once the minimum order quantity (MOQ)
+is reached the operator places one bulk order and splits the international shipping
+cost across everyone, then repackages and ships domestically.
 
 ## What it does
 
